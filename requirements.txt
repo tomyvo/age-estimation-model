@@ -1,0 +1,10 @@
+numpy
+torch
+torchvision
+math
+pandas
+os
+tqdm
+gradio
+mtcnn
+scikit-learn
