@@ -35,8 +35,8 @@ The system uses a **convolutional neural network (CNN)** trained on face dataset
 ## ⚙️ Installation
 ```bash
 # Clone this repository
-git clone https://github.com/<your-username>/age-estimation.git
-cd age-estimation
+git clone https://github.com/tomyvo/age-estimation-model.git
+cd age-estimation-model
 
 # Create and activate virtual environment (optional)
 python -m venv venv
